@@ -1,6 +1,6 @@
 # Introduction
 
-:wave: Welcome to the **[GPG](.\GPG)** space :wave:
+:wave: Welcome to the **GPG** space :wave:
 
 This repository is intended for managins encryption with keys.
 
@@ -21,6 +21,6 @@ KeyId, KeyType, CreationDate, ExpirationDate
 - With Kleopatra you can manage you keys with a GUI.
 
 # Check you keys expiration date
-- Run the script [get_GPGKeys.ps1)[.\get_GPGKeys.ps1]
+- Run the script (get_GPGKeys.ps1)[.\get_GPGKeys.ps1]
 - The script will print all your keys with KeyID, CreationDate, ExpirationDate
   
