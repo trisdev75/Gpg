@@ -1,6 +1,6 @@
 # Introduction
 
-:wave: Welcome to the **GPG** space :wave:
+:wave: Welcome to the **[GPG](https://github.com/trisdev75/Gpg/)** space :wave:
 
 This repository is intended for managins encryption with keys.
 
@@ -19,6 +19,6 @@ Below you will find the information necessary to operate this repository.
 - With Kleopatra you can manage you keys with a GUI.
 
 # Check you keys expiration date
-- Run the script [get_GPGKeys.ps1](.\get_GPGKeys.ps1)
+- Run the script [get_GPGKeys.ps1](https://github.com/trisdev75/Gpg/blob/main/get_GPGKeys.ps1)
 - The script will print all your public keys with KeyID, KeyType, CreationDate, ExpirationDate.
   
