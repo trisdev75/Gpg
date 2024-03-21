@@ -2,7 +2,7 @@
 
 :wave: Welcome to the **[GPG](https://github.com/trisdev75/Gpg/)** space :wave:
 
-This repository is intended for managins encryption with keys.
+This repository is intended for managing encryption with keys.
 
 All the scripts I created for specific needs are contained in this repository
 
