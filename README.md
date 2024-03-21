@@ -8,8 +8,6 @@ All the scripts I created for specific needs are contained in this repository
 
 Below you will find the information necessary to operate this repository.
 
-List and get Expiration date for pub key.
-KeyId, KeyType, CreationDate, ExpirationDate
 
 # Generates a key with Puttygen
 
@@ -22,5 +20,5 @@ KeyId, KeyType, CreationDate, ExpirationDate
 
 # Check you keys expiration date
 - Run the script (get_GPGKeys.ps1)[.\get_GPGKeys.ps1]
-- The script will print all your keys with KeyID, CreationDate, ExpirationDate
+- The script will print all your public keys with KeyID, KeyType, CreationDate, ExpirationDate.
   
